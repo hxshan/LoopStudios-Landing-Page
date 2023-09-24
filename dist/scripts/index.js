@@ -7,9 +7,9 @@ const navBar=document.getElementById("navbar")
 navbtn.addEventListener('click',()=>{
     navopen = !navopen
     if(navopen==true){
-        navbtn.src="../src/images/icon-close.svg";
+        navbtn.src="images/icon-close.svg";
     }else{
-        navbtn.src="../src/images/icon-hamburger.svg";
+        navbtn.src="images/icon-hamburger.svg";
     }
     navBar.classList.toggle("bg-black");
     navBarItems.classList.toggle("hidden");
