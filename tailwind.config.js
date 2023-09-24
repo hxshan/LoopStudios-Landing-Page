@@ -2,7 +2,12 @@
 module.exports = {
   content: ["./dist/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        alata: ['Alata'],
+        josefin: ['Josefin Sans']
+      }
+    },
   },
   plugins: [],
 }
