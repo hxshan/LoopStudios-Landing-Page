@@ -27,8 +27,13 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+![mob1](https://github.com/hxshan/LoopStudios-Landing-Page/assets/85825544/f02c0f9d-9374-45d1-bbcf-cbbecb21dd3c)
 
-![](./screenshot.jpg)
+![mob 2](https://github.com/hxshan/LoopStudios-Landing-Page/assets/85825544/c9adfcaa-cfa3-4eb7-8e32-4fed27ed59ef)
+
+![desktop1](https://github.com/hxshan/LoopStudios-Landing-Page/assets/85825544/5bb8b085-b826-4fce-9286-3fc20b416345)
+
+![desktop2](https://github.com/hxshan/LoopStudios-Landing-Page/assets/85825544/e071b0a0-7261-4b4f-aa5a-77b977deb400)
 
 ### Links
 
