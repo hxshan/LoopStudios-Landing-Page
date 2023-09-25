@@ -4,6 +4,8 @@ const navBarItems=document.getElementById("navitems")
 const navBar=document.getElementById("navbar")
 
 
+
+
 navbtn.addEventListener('click',()=>{
     navopen = !navopen
     if(navopen==true){
@@ -15,3 +17,4 @@ navbtn.addEventListener('click',()=>{
     navBarItems.classList.toggle("hidden");
 
 })
+
